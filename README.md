@@ -11,4 +11,3 @@ Henrique Galli RA 081190044
 Márcio Rios RA 081200041
 Renan França RA 081190025
 William Saito RA 081190001
-![Uploading image.png…]()
